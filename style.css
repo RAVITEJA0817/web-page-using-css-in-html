@@ -1,0 +1,80 @@
+.imgstyle{
+    width: 300px;
+    height: 600px;
+    margin:35px;
+}
+.stl1{
+    text-align: center;
+    background-image: url(https://static9.depositphotos.com/1561229/1186/v/600/depositphotos_11868876-stock-illustration-design-phone.jpg);
+color: white;
+}
+.strikeout{
+    text-decoration: line-through;
+}
+.imgstl1{
+    width: 350px;
+    height: 300px;
+    margin: 0PX;
+    
+}
+.stl2{
+    width: 500px;
+    height: 300px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   background-image: url(https://wallpaperaccess.com/full/829212.jpg);
+   color: orange;
+   
+}
+.stl3{
+    width: 400px;
+    height: 350px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(https://st4.depositphotos.com/14839914/28839/i/1600/depositphotos_288399902-stock-photo-pink-headphone-and-black-cable.jpg);
+}
+h2{
+    background-color:lightgoldenrodyellow;
+    text-align: center;
+}
+b{
+    font-size: 26px;
+}
+
+.stl5{
+    margin-left: 50px;
+    font-size: 25px;
+    background-color: lightslategray;
+    color: darkblue;
+}
+.stl6{
+    margin-left: 130px;
+}
+
+.stl7{
+    margin-left: 50px;
+    font-size: 60px;
+}
+.stl8{
+    display: inline;
+    font-size: 25px;
+    color: deepskyblue;
+    margin-left: 200px;
+}
+nav{
+    padding: 20px;
+   
+   background-image: url(https://media.istockphoto.com/vectors/gadgets-and-consumer-electronics-white-background-seamless-linear-vector-id583724914?s=612x612);
+
+}
+ul{
+    background-color: lightsalmon;
+    padding: 25px;
+}
+.stl9{
+    text-align: center;
+    background-image: url(https://img.freepik.com/free-vector/realistic-microchip-processor-background_52683-58307.jpg?size=626&ext=jpg);
+   color:white
+}
